@@ -602,3 +602,4 @@ Zoot Fire true
 Zoot NoAir false
 Zoot toggle false
 Zoot bind NONE
+chat &cDon't activate the sprint-module while using Killaura, keepsprint might not work correctly.
